@@ -2,5 +2,5 @@
 #include<conio.h>
 void main()
 {
-  printf("Hello.C");
+  printf("MY NAME IS ANUSH ");
 }
